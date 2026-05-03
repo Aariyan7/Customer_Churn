@@ -250,6 +250,8 @@ Response:
 
 ## Screenshots
 
+![Manual Prediction](images/model.png)
+
 ![Manual Prediction](images/manual_prediction.png)
 
 ![CSV Upload](images/csv_upload.png)
