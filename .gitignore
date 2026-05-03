@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+customer_churn/
+venv/
+.venv/
+env/
+
+# Gradio temp
+.gradio/
+
+# Model artifacts (if stored locally)
+models/
+*.pkl
+
+# Data files
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
