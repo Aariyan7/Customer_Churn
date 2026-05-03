@@ -99,7 +99,7 @@ gradio_app.py — Gradio frontend (calls FastAPI via HTTP)
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
+git https://github.com/Aariyan7/Customer_Churn.git
 cd churn-prediction
 ```
 
@@ -119,9 +119,9 @@ In `main.py` change:
 ```python
 BUCKET_NAME = "your-bucket-name"
 ```
-**5. Run Data Extraction
+**5. Run Data Extraction**
 ```python
-python data_extraction.py
+python data_extraction.py**
 ```
 **6. Run train.py -> Train the models
 ```python
